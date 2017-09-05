@@ -47,14 +47,19 @@ SSC EXAM | June 2009 | Nashik, India | **First Class** with **67.23%**
 ## __Skills__
 ### PROGRAMMING
 C • C++ • C# • Core & Advanced Java • Python • HTML5 and CSS3 • PHP • XML • Shell Scripting • Batch Programming
-#### Familiar with: Android • JavaScript • jQuery • Node.js • AngularJS • JSON • Django • LATEX
+
+**Familiar with:** Android • JavaScript • jQuery • Node.js • AngularJS • JSON • Django • LATEX
+
 ### DATABASES
-MySQL•MongoDB
+MySQL • MongoDB
+
 ### SERVERS & PROTOCOLS
 FTPServer • HTTPServer • SMTPServer • MOSH • SSH • Telnet • DHCP • DNS
+
 ### OPERATING SYSTEM
-#### Linux: Ubuntu 16.04.2 LTS • Fedora 25 • Debian 8 • CentOS 7 • OpenSUSE 42.2 • RedHat Enterprise Linux 7
-#### Microsoft: Windows XP • Vista • 7 • 8 • 8.1 • 10
+**Linux:** Ubuntu 16.04.2 LTS • Fedora 25 • Debian 8 • CentOS 7 • OpenSUSE 42.2 • RedHat Enterprise Linux 7
+**Microsoft:** Windows XP • Vista • 7 • 8 • 8.1 • 10
+
 ### REMOTE ACCESS TOOLS
 NoMachine • TeamViewer • VNC
 
