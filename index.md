@@ -128,6 +128,6 @@ Programming • Listening to Music • Reading • Learning New Technologies lik
 [LinkedIn](http://www.linkedin.com/in/abhishekkatyare) -
 [GitHub](https://github.com/abhishekkatyare) -
 [Angel.Co](https://angel.co/abhishekkatyare)
-[//]: # ([Instagram](https://www.instagram.com/abhishekkatyare) -)
-[//]: # ([Pocket](https://getpocket.com/@abhishekkatyare) -)
-[//]: # ([Medium](https://medium.com/@abhishekkatyare))
+<!--- [Instagram](https://www.instagram.com/abhishekkatyare) --->
+<!--- [Pocket](https://getpocket.com/@abhishekkatyare) --->
+<!--- [Medium](https://medium.com/@abhishekkatyare) --->
