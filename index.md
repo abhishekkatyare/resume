@@ -69,21 +69,55 @@ NoMachine • TeamViewer • VNC
 ----------
 
 ## __Awards & Certifications__
-   |   |   
----|---|---
-2015 | College Topper | (out of 420 Students) KVNNIEER
-2015 | 1<sup>st</sup> Prize | (out of 260 Students) Blind 'C' Competition at KVNNIEER
-2012 | 3<sup>rd</sup> Prize | (out of 600 Students) SVIT Delve State Level Competition
-2011 | 1<sup>st</sup> Prize | (out of 780 Students) Blind 'C' Competition at KKWIEER
-2011 | 'A' Grade | Microsoft VB.NET using Microsoft Visual Studio 2008
-2009 | 'A' Grade | Computer Networking and Laptop Servicing at EDIIndia
-2008 | Bronze Medalist | International Informatics Olympiad (iio–2008)
-2007 | Gold Medalist | International Informatics Olympiad (iio–2007)
+<table>
+  <tr>
+    <td>2015</td>
+    <td>College Topper</td>
+    <td>(out of 420 Students) KVNNIEER</td>
+  </tr>
+  <tr>
+    <td>2015</td>
+    <td>1<sup>st</sup> Prize</td>
+    <td>(out of 260 Students) Blind 'C' Competition at KVNNIEER</td>
+  </tr>
+  <tr>
+    <td>2012</td>
+    <td>3<sup>rd</sup> Prize</td>
+    <td>(out of 600 Students) SVIT Delve State Level Competition</td>
+  </tr>
+  <tr>
+    <td>2011</td>
+    <td>1<sup>st</sup> Prize</td>
+    <td>(out of 780 Students) Blind 'C' Competition at KKWIEER</td>
+  </tr>
+  <tr>
+    <td>2011</td>
+    <td>'A' Grade</td>
+    <td>Microsoft VB.NET using Microsoft Visual Studio 2008</td>
+  </tr>
+  <tr>
+    <td>2009</td>
+    <td>'A' Grade</td>
+    <td>Computer Networking and Laptop Servicing at EDIIndia</td>
+  </tr>
+  <tr>
+    <td>2008</td>
+    <td>Bronze Medalist</td>
+    <td>International Informatics Olympiad (iio–2008)</td>
+  </tr>
+  <tr>
+    <td>2007</td>
+    <td>Gold Medalist</td>
+    <td>International Informatics Olympiad (iio–2007)</td>
+  </tr>
+</table>
 
 ----------
 
 ## __Hobbies & Interests__
+Programming • Listening to Music • Reading • Learning New Technologies like Machine Learning, BigDATA, IoT.
 
+----------
 
 ## __Contact Me__
 [About.Me](https://about.me/abhishekkatyare) -
