@@ -34,7 +34,15 @@ SSC EXAM | June 2009 | Nashik, India | **First Class** with **67.23%**
 ----------
 
 ## __Experience__
+### LOGMIEER | NETWORK ENGINEER + TECHNICAL ASSISTANT | June 2015 – July 2016 | Nashik, India
++ Configuring network devices like Routers, Switches etc. & expanding existing network with the help of Static as well as DHCP IP. Troubleshooting network problems, network devices & computer hardware problems.
++ Upgrading & Repairing PC’s, Crimping of CAT5/CAT6 Twisted Pair Cables.
++ Configuring and Programming of BeagleBone Black, Arduino Uno & Arduino Mega 2560 with Ethernet Shield & ESP8266.
++ Installation of different distributions of Linux Operating Systems like Redhat, Ubuntu, Fedora, OpenSUSE etc. & Microsoft Windows 7, 8, 8.1, 10.
++Installation and working with Remote Access Tools like NoMachine, TeamViewer, VNC.
++ Creating different types of servers like HTTP, FTP, SMTP, etc.
 
+----------
 
 ## __Skills__
 
