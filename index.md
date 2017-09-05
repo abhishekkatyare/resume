@@ -47,7 +47,6 @@ SSC EXAM | June 2009 | Nashik, India | **First Class** with **67.23%**
 ## __Skills__
 ### PROGRAMMING
 C • C++ • C# • Core & Advanced Java • Python • HTML5 and CSS3 • PHP • XML • Shell Scripting • Batch Programming
-
 **Familiar with:** Android • JavaScript • jQuery • Node.js • AngularJS • JSON • Django • LATEX
 
 ### DATABASES
