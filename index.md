@@ -12,7 +12,7 @@ I am a Software Engineer from Nashik, India who loves to write software to make 
 + Maharashtra State Board of Technical Education | K. K. Wagh Polytechnic
   + DIPLOMA IN COMPUTER TECHNOLOGY | July 2009 - June 2012 | Nashik, India |  
 **First Class** with **72.97%**
-+ Pethe Vidyalaya
++ Maharashtra State Secondary and Higher Secondary Board | Pethe Vidyalaya
   + SSC EXAM (10<sup>th</sup>) | June 2008 - June 2009 | Nashik, India |  
 **First Class** with **67.23%**
 
