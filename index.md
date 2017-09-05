@@ -5,9 +5,8 @@ I am a Software Engineer from Nashik, India who loves to write software to make 
 
 ### Education
 #### Savitribai Phule Pune University
-BE IN COMPUTER ENGINEERING
-August 2014 - July 2017 | Nashik, India
-First Class with 3 Year AGGR(62.91%)
+```markdown
+BE IN COMPUTER ENGINEERING | August 2014 - July 2017 | Nashik, India | First Class with Aggregate of 3 Years is 62.91%.
 
 ### Academic Projects
 
