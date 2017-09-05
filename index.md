@@ -51,18 +51,14 @@ SSC EXAM (10<sup>th</sup>) | June 2009 | Nashik, India |
 + **PROGRAMMING**
   + C • C++ • C# • Core & Advanced Java • Python • HTML5 and CSS3 • PHP • XML •  
 Shell Scripting • Batch Programming  
-  + **Familiar with:** Android • JavaScript • jQuery • Node.js • AngularJS • JSON • Django • LATEX
-
+  + **Familiar with:** Android • JavaScript • jQuery • Node.js • AngularJS • JSON • Django • LATEX  
 + **DATABASES**
-  + MySQL • MongoDB
-
+  + MySQL • MongoDB  
 + **SERVERS & PROTOCOLS**
-  + FTP Server • HTTP Server • SMTP Server • MOSH • SSH • Telnet • DHCP • DNS
-
+  + FTP Server • HTTP Server • SMTP Server • MOSH • SSH • Telnet • DHCP • DNS  
 + **OPERATING SYSTEM**
   + **Linux:** Ubuntu 16.04.2 LTS • Fedora 25 • Debian 8 • CentOS 7 • OpenSUSE 42.2 • RedHat Enterprise Linux 7  
-  + **Microsoft:** Windows XP • Vista • 7 • 8 • 8.1 • 10
-
+  + **Microsoft:** Windows XP • Vista • 7 • 8 • 8.1 • 10  
 + **REMOTE ACCESS TOOLS**
   + NoMachine • TeamViewer • VNC
 
