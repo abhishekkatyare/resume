@@ -121,14 +121,9 @@ Programming • Listening to Music • Reading • Learning New Technologies lik
 
 ## __Contact Me__
 [About.Me](https://about.me/abhishekkatyare) -
-[Email](mailto:abhishekkatyare@gmail.com) -
-<!--- [Resume](https://goo.gl/gRpDrZ) --->
 [Twitter](https://twitter.com/AbhishekKatyare) -
 [Google+](https://plus.google.com/+AbhishekKatyare) -
 [Facebook](https://www.facebook.com/KatyareAbhishek) -
 [LinkedIn](http://www.linkedin.com/in/abhishekkatyare) -
 [GitHub](https://github.com/abhishekkatyare) -
 [Angel.Co](https://angel.co/abhishekkatyare)
-<!--- [Instagram](https://www.instagram.com/abhishekkatyare) --->
-<!--- [Pocket](https://getpocket.com/@abhishekkatyare) --->
-<!--- [Medium](https://medium.com/@abhishekkatyare) --->
