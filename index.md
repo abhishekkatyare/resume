@@ -6,14 +6,14 @@ I am a Software Engineer from Nashik, India who loves to write software to make 
 ----------
 
 ## __Education__
-+ ### Savitribai Phule Pune University | LoGMIEER
-BE IN COMPUTER ENGINEERING | August 2014 - July 2017 | Nashik, India |  
++ Savitribai Phule Pune University | LoGMIEER
+  + BE IN COMPUTER ENGINEERING | August 2014 - July 2017 | Nashik, India |  
 **First Class** with Aggregate of 3 Years is **62.91%**
-+ ### Maharashtra State Board of Technical Education | K. K. Wagh Polytechnic
-DIPLOMA IN COMPUTER TECHNOLOGY | July 2009 - June 2012 | Nashik, India |  
++ Maharashtra State Board of Technical Education | K. K. Wagh Polytechnic
+  + DIPLOMA IN COMPUTER TECHNOLOGY | July 2009 - June 2012 | Nashik, India |  
 **First Class** with **72.97%**
-+ ### Pethe Vidyalaya
-SSC EXAM (10<sup>th</sup>) | June 2009 | Nashik, India |  
++ Pethe Vidyalaya
+  + SSC EXAM (10<sup>th</sup>) | June 2008 - June 2009 | Nashik, India |  
 **First Class** with **67.23%**
 
 ----------
@@ -26,7 +26,7 @@ SSC EXAM (10<sup>th</sup>) | June 2009 | Nashik, India |
     + Weblink: [GitHub://abhishekkatyare/SmartMeteringSystem](https://github.com/abhishekkatyare/SmartMeteringSystem)
 
 + ### Diploma Final Year Project | Project Leader + Programmer | January 2011 – March 2012 | Nashik, India
-  + **TURBO C/C++ MASTER(AVSS EDITOR)**
+  + **TURBO C/C++ MASTER (AVSS EDITOR)**
     + AVSS Editor is a text editor and source code editor with compilation feature for use with Microsoft Windows.
     + It supports tabbed editing, which allows working with multiple open files in a single window.
 
@@ -52,13 +52,17 @@ SSC EXAM (10<sup>th</sup>) | June 2009 | Nashik, India |
   + C • C++ • C# • Core & Advanced Java • Python • HTML5 and CSS3 • PHP • XML •  
 Shell Scripting • Batch Programming  
   + **Familiar with:** Android • JavaScript • jQuery • Node.js • AngularJS • JSON • Django • LATEX  
+  
 + **DATABASES**
   + MySQL • MongoDB  
+  
 + **SERVERS & PROTOCOLS**
   + FTP Server • HTTP Server • SMTP Server • MOSH • SSH • Telnet • DHCP • DNS  
+  
 + **OPERATING SYSTEM**
   + **Linux:** Ubuntu 16.04.2 LTS • Fedora 25 • Debian 8 • CentOS 7 • OpenSUSE 42.2 • RedHat Enterprise Linux 7  
   + **Microsoft:** Windows XP • Vista • 7 • 8 • 8.1 • 10  
+  
 + **REMOTE ACCESS TOOLS**
   + NoMachine • TeamViewer • VNC
 
