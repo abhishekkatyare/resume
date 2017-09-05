@@ -37,7 +37,7 @@ I am a Software Engineer from Nashik, India who loves to write software to make 
 ----------
 
 ## __Experience__
-+ LoGMIEER | **Network Engineer + Technical Assistant** | June 2015 – July 2016 | Nashik, India
++ #### LoGMIEER | **Network Engineer + Technical Assistant** | June 2015 – July 2016 | Nashik, India
   + Configuring network devices like Routers, Switches etc. & expanding existing network with the help of Static as well as DHCP IP. Troubleshooting network problems, network devices & computer hardware problems.
   + Upgrading & Repairing PC’s, Crimping of CAT5/CAT6 Twisted Pair Cables.
   + Configuring and Programming of BeagleBone Black, Arduino Uno & Arduino Mega 2560 with Ethernet Shield & ESP8266.
@@ -121,12 +121,13 @@ Programming • Listening to Music • Reading • Learning New Technologies lik
 
 ## __Contact Me__
 [About.Me](https://about.me/abhishekkatyare) -
+[Resume](https://goo.gl/gRpDrZ) -
 [Twitter](https://twitter.com/AbhishekKatyare) -
 [Google+](https://plus.google.com/+AbhishekKatyare) -
 [Facebook](https://www.facebook.com/KatyareAbhishek) -
 [LinkedIn](http://www.linkedin.com/in/abhishekkatyare) -
 [GitHub](https://github.com/abhishekkatyare) -
-[Angel.Co](https://angel.co/abhishekkatyare) -
-[Instagram](https://www.instagram.com/abhishekkatyare) -
-[Pocket](https://getpocket.com/@abhishekkatyare) -
-[Medium](https://medium.com/@abhishekkatyare)
+[Angel.Co](https://angel.co/abhishekkatyare)
+[//]: # ([Instagram](https://www.instagram.com/abhishekkatyare) -)
+[//]: # ([Pocket](https://getpocket.com/@abhishekkatyare) -)
+[//]: # ([Medium](https://medium.com/@abhishekkatyare))
