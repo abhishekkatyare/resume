@@ -49,14 +49,15 @@ SSC EXAM (10<sup>th</sup>) | June 2009 | Nashik, India |
 
 ## __Skills__
 ### PROGRAMMING
-C • C++ • C# • Core & Advanced Java • Python • HTML5 and CSS3 • PHP • XML • Shell Scripting • Batch Programming  
+C • C++ • C# • Core & Advanced Java • Python • HTML5 and CSS3 • PHP • XML •  
+Shell Scripting • Batch Programming  
 **Familiar with:** Android • JavaScript • jQuery • Node.js • AngularJS • JSON • Django • LATEX
 
 ### DATABASES
 MySQL • MongoDB
 
 ### SERVERS & PROTOCOLS
-FTPServer • HTTPServer • SMTPServer • MOSH • SSH • Telnet • DHCP • DNS
+FTP Server • HTTP Server • SMTP Server • MOSH • SSH • Telnet • DHCP • DNS
 
 ### OPERATING SYSTEM
 **Linux:** Ubuntu 16.04.2 LTS • Fedora 25 • Debian 8 • CentOS 7 • OpenSUSE 42.2 • RedHat Enterprise Linux 7  
@@ -68,14 +69,16 @@ NoMachine • TeamViewer • VNC
 ----------
 
 ## __Awards & Certifications__
-2015 | College Topper           | (out of 420 Students) KVNNIEER
-2015 | 1<sup>st</sup> Prize     | (out of 260 Students) Blind 'C' Competition at KVNNIEER
-2012 | 3<sup>rd</sup> Prize     | (out of 600 Students) SVIT Delve State Level Competition
-2011 | 1<sup>st</sup> Prize     | (out of 780 Students) Blind 'C' Competition at KKWIEER
-2011 | 'A' Grade                | Microsoft VB.NET using Microsoft Visual Studio 2008
-2009 | 'A' Grade                | Computer Networking and Laptop Servicing at EDIIndia
-2008 | Bronze Medalist          | International Informatics Olympiad (iio–2008)
-2007 | Gold Medalist            | International Informatics Olympiad (iio–2007)
+   |   |   
+---|---|---
+2015 | College Topper | (out of 420 Students) KVNNIEER
+2015 | 1<sup>st</sup> Prize | (out of 260 Students) Blind 'C' Competition at KVNNIEER
+2012 | 3<sup>rd</sup> Prize | (out of 600 Students) SVIT Delve State Level Competition
+2011 | 1<sup>st</sup> Prize | (out of 780 Students) Blind 'C' Competition at KKWIEER
+2011 | 'A' Grade | Microsoft VB.NET using Microsoft Visual Studio 2008
+2009 | 'A' Grade | Computer Networking and Laptop Servicing at EDIIndia
+2008 | Bronze Medalist | International Informatics Olympiad (iio–2008)
+2007 | Gold Medalist | International Informatics Olympiad (iio–2007)
 
 ----------
 
