@@ -37,7 +37,7 @@ I am a Software Engineer from Nashik, India who loves to write software to make 
 ----------
 
 ## __Experience__
-+ #### Freelance | **Software Engineer** | June 2017 – Present | Nashik, India
++ #### FREELANCE | **Software Engineer** | June 2017 – Present | Nashik, India
 
 + #### LoGMIEER | **Network Engineer + Technical Assistant** | June 2015 – July 2016 | Nashik, India
   + Configuring network devices like Routers, Switches etc. & expanding existing network with the help of Static as well as DHCP IP. Troubleshooting network problems, network devices & computer hardware problems.
