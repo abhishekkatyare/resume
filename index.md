@@ -38,13 +38,13 @@ I am a Software Engineer from Nashik, India who loves to write software to make 
 
 ## __Experience__
 + #### FREELANCE | **Software Engineer** | June 2017 – Present | Nashik, India
-
+  + Created and Implemented Hadoop Cluster with the help of HDFS for Distributed and Parallel Computing. On created Hadoop Cluster, implementing MapReduse Programs and experimenting with it.
 + #### LoGMIEER | **Network Engineer + Technical Assistant** | June 2015 – July 2016 | Nashik, India
   + Configuring network devices like Routers, Switches etc. & expanding existing network with the help of Static as well as DHCP IP. Troubleshooting network problems, network devices & computer hardware problems.
   + Upgrading & Repairing PC’s, Crimping of CAT5/CAT6 Twisted Pair Cables.
   + Configuring and Programming of BeagleBone Black, Arduino Uno & Arduino Mega 2560 with Ethernet Shield & ESP8266.
   + Installation of different distributions of Linux Operating Systems like Redhat, Ubuntu, Fedora, OpenSUSE etc. & Microsoft Windows 7, 8, 8.1, 10.
-  +Installation and working with Remote Access Tools like NoMachine, TeamViewer, VNC.
+  + Installation and working with Remote Access Tools like NoMachine, TeamViewer, VNC.
   + Creating different types of servers like HTTP, FTP, SMTP, etc.
 
 ----------
