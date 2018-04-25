@@ -12,7 +12,7 @@ I am a Software Engineer from Nashik, India who loves to write software to make 
 + #### K. K. Wagh Polytechnic | July 2009 - June 2012 | Nashik, India
 	+ **DIPLOMA IN COMPUTER TECHNOLOGY**	
 	+ **First Class** with **72.97%**
-+ #### Pethe Vidyalaya | June 2008 - June 2009 | Nashik, India
++ #### Pethe Vidyalaya | June 2009 | Nashik, India
 	+ **SSC EXAM (10<sup>th</sup>)**
 	+ **First Class** with **67.23%**
 
@@ -25,7 +25,7 @@ I am a Software Engineer from Nashik, India who loves to write software to make 
 		+ The main task of Arduino is to catch the pulse of the Meter and then fire a query in the database to store the pulse as well as calculate kWh forwarded from a single smart meter, in order to make this information available on Internet.
 		+ Weblink: [GitHub://abhishekkatyare/SmartMeteringSystem](https://github.com/abhishekkatyare/SmartMeteringSystem)
 
-+ #### Diploma Final Year Project | **Project Leader + Programmer** | January 2012 – March 2012 | Nashik, India
++ #### Diploma Final Year Project | **Project Leader + Programmer** | January 2012 – April 2012 | Nashik, India
 	+ **TURBO C/C++ MASTER (AVSS EDITOR)**
 		+ AVSS Editor is a text editor and source code editor with compilation feature for use with Microsoft Windows.
 		+ It supports tabbed editing, which allows working with multiple open files in a single window.
