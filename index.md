@@ -123,7 +123,7 @@ Internet of Things (IoT) • Programming • Listening to Music • Reading
 
 ----------
 
-## __Contact Me__
+## __Links__
 [Email](mailto:abhishekkatyare@gmail.com) • 
 [LinkedIn](http://www.linkedin.com/in/abhishekkatyare) • 
 [Angel.Co](https://angel.co/abhishekkatyare) • 
