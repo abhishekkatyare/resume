@@ -30,7 +30,7 @@ I am a Software Engineer from Nashik, India who loves to write software to make 
 		+ AVSS Editor is a text editor and source code editor with compilation feature for use with Microsoft Windows.
 		+ It supports tabbed editing, which allows working with multiple open files in a single window.
 
-+ #### Diploma Second Year Project | **Programmer** | Mar 2011 – April 2011 | Nashik, India 
++ #### Diploma Second Year Project | **Programmer** | March 2011 – April 2011 | Nashik, India 
 	+ **PIANO**
 		+ It is implemented using Object Oriented Programming Concepts and C++ with the help of ASCII values.
 
