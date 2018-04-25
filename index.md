@@ -119,12 +119,12 @@ Shell Scripting • Batch Programming
 
 ## __Interests & Hobbies__
 Artificial Intelligence • Machine Learning • Deep Learning • Natural-language processing • Data Science • BigDATA •
-Internet of Things (IoT) • Programming • Listening to Music * Reading
+Internet of Things (IoT) • Programming • Listening to Music • Reading
 
 ----------
 
 ## __Contact Me__
-[About.Me](https://about.me/abhishekkatyare) -
+[//]: # [About.Me](https://about.me/abhishekkatyare) -
 [Email](mailto:abhishekkatyare@gmail.com) - 
 [Twitter](https://twitter.com/AbhishekKatyare) -
 [Google+](https://plus.google.com/+AbhishekKatyare) -
