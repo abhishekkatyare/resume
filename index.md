@@ -6,17 +6,14 @@ I am a Software Engineer from Nashik, India who loves to write software to make 
 ----------
 
 ## __Education__
-+ #### Savitribai Phule Pune University | LoGMIEER | Nashik, India
-	+ **BE IN COMPUTER ENGINEERING**
-	+ August 2014 - July 2017	
++ #### Savitribai Phule Pune University | LoGMIEER | August 2014 - July 2017 | Nashik, India
+	+ **BE IN COMPUTER ENGINEERING**	
 	+ **First Class** with Aggregate of 3 Years is **62.91%**
-+ #### Maharashtra State Board of Technical Education | K. K. Wagh Polytechnic | Nashik, India
-	+ **DIPLOMA IN COMPUTER TECHNOLOGY**
-	+ July 2009 - June 2012	
++ #### K. K. Wagh Polytechnic | July 2009 - June 2012 | Nashik, India
+	+ **DIPLOMA IN COMPUTER TECHNOLOGY**	
 	+ **First Class** with **72.97%**
-+ #### Maharashtra State Secondary and Higher Secondary Board | Pethe Vidyalaya | Nashik, India
++ #### Pethe Vidyalaya | June 2008 - June 2009 | Nashik, India
 	+ **SSC EXAM (10<sup>th</sup>)**
-	+ June 2008 - June 2009	
 	+ **First Class** with **67.23%**
 
 ----------
