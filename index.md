@@ -26,11 +26,11 @@ I am a Software Engineer from Nashik, India who loves to write software to make 
     + Weblink: [GitHub://abhishekkatyare/SmartMeteringSystem](https://github.com/abhishekkatyare/SmartMeteringSystem)
 
 + #### Diploma Final Year Project | **Project Leader + Programmer** | January 2012 – March 2012 | Nashik, India
-  + **TURBO C/C++ MASTER (AVSS EDITOR)**
+  + **TURBO C/C++ MASTER (AVSS EDITOR)** 
     + AVSS Editor is a text editor and source code editor with compilation feature for use with Microsoft Windows.
     + It supports tabbed editing, which allows working with multiple open files in a single window.
 
-+ #### Diploma Second Year Project | **Programmer** | Mar 2011 – April 2011 | Nashik, India
++ #### Diploma Second Year Project | **Programmer** | Mar 2011 – April 2011 | Nashik, India 
   + **PIANO**
     + It is implemented using Object Oriented Programming Concepts and C++ with the help of ASCII values.
 
@@ -38,7 +38,7 @@ I am a Software Engineer from Nashik, India who loves to write software to make 
 
 ## __Experience__
 + #### FREELANCE | **Software Engineer** | June 2017 – Present | Nashik, India
-  + Created and Implemented Hadoop Cluster with the help of HDFS for Distributed and Parallel Computing. On created Hadoop Cluster, implementing MapReduse Programs and experimenting with it.
+  + Created and Implemented Hadoop Cluster with the help of HDFS for Distributed and Parallel Computing. On created Hadoop Cluster, implementing MapReduse Programs and experimenting with it.
   + Configuring and Programming of BeagleBone Black, Arduino Uno & Arduino Mega 2560 with Ethernet Shield & ESP8266 and experimenting with it.
 + #### LoGMIEER | **Network Engineer + Technical Assistant** | June 2015 – July 2016 | Nashik, India
   + Configuring network devices like Routers, Switches etc. & expanding existing network with the help of Static as well as DHCP IP. Troubleshooting network problems, network devices & computer hardware problems.
@@ -62,7 +62,7 @@ Shell Scripting • Batch Programming
   + FTP Server • HTTP Server • SMTP Server • MOSH • SSH • Telnet • DHCP • DNS  
   
 + **OPERATING SYSTEM**
-  + **Linux:** Ubuntu 16.04.4 LTS • Fedora 27 • Debian 9.3 • CentOS 7 • OpenSUSE 42.3 • RedHat Enterprise Linux 7
+  + **Linux:** Ubuntu 16.04.4 LTS • Fedora 27 • Debian 9.3 • CentOS 7 • OpenSUSE 42.3 • RedHat Enterprise Linux 7 
   + **Microsoft:** Windows XP • Vista • 7 • 8 • 8.1 • 10 
   
 + **REMOTE ACCESS TOOLS**
