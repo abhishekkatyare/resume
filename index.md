@@ -10,10 +10,10 @@ I am a Software Engineer from Nashik, India who loves to write software to make 
 	+ BE IN COMPUTER ENGINEERING | August 2014 - July 2017 | Nashik, India	
 		**First Class** with Aggregate of 3 Years is **62.91%**
 + #### Maharashtra State Board of Technical Education | K. K. Wagh Polytechnic
-	+ DIPLOMA IN COMPUTER TECHNOLOGY | July 2009 - June 2012 | Nashik, India  
+	+ DIPLOMA IN COMPUTER TECHNOLOGY | July 2009 - June 2012 | Nashik, India	 
 		**First Class** with **72.97%**
 + #### Maharashtra State Secondary and Higher Secondary Board | Pethe Vidyalaya
-	+ SSC EXAM (10<sup>th</sup>) | June 2008 - June 2009 | Nashik, India  
+	+ SSC EXAM (10<sup>th</sup>) | June 2008 - June 2009 | Nashik, India	
 		**First Class** with **67.23%**
 
 ----------
@@ -38,35 +38,36 @@ I am a Software Engineer from Nashik, India who loves to write software to make 
 
 ## __Experience__
 + #### FREELANCE | **Software Engineer** | June 2017 – Present | Nashik, India
-  + Created and Implemented Hadoop Cluster with the help of HDFS for Distributed and Parallel Computing. On created Hadoop Cluster, implementing MapReduse Programs and experimenting with it.
-  + Configuring and Programming of BeagleBone Black, Arduino Uno & Arduino Mega 2560 with Ethernet Shield & ESP8266 and experimenting with it.
+	+ Created and Implemented Hadoop Cluster with the help of HDFS for Distributed and Parallel Computing. On created Hadoop Cluster, implementing MapReduse Programs and experimenting with it.
+	+ Configuring and Programming of BeagleBone Black, Arduino Uno & Arduino Mega 2560 with Ethernet Shield & ESP8266 and experimenting with it.
+	
 + #### LoGMIEER | **Network Engineer + Technical Assistant** | June 2015 – July 2016 | Nashik, India
-  + Configuring network devices like Routers, Switches etc. & expanding existing network with the help of Static as well as DHCP IP. Troubleshooting network problems, network devices & computer hardware problems.
-  + Upgrading & Repairing PC’s, Crimping of CAT5/CAT6 Twisted Pair Cables.
-  + Installation of different distributions of Linux Operating Systems like Redhat, Ubuntu, Fedora, OpenSUSE etc. & Microsoft Windows 7, 8, 8.1, 10.
-  + Installation and working with Remote Access Tools like NoMachine, TeamViewer, VNC.
-  + Creating different types of servers like HTTP, FTP, SMTP, etc.
+	+ Configuring network devices like Routers, Switches etc. & expanding existing network with the help of Static as well as DHCP IP. Troubleshooting network problems, network devices & computer hardware problems.
+	+ Upgrading & Repairing PC’s, Crimping of CAT5/CAT6 Twisted Pair Cables.
+	+ Installation of different distributions of Linux Operating Systems like Redhat, Ubuntu, Fedora, OpenSUSE etc. & Microsoft Windows 7, 8, 8.1, 10.
+	+ Installation and working with Remote Access Tools like NoMachine, TeamViewer, VNC.
+	+ Creating different types of servers like HTTP, FTP, SMTP, etc.
 
 ----------
 
 ## __Skills__
 + **PROGRAMMING**
-  + C • C++ • C# • Core & Advanced Java • Python • HTML5 and CSS3 • PHP • XML •  
+	+ C • C++ • C# • Core & Advanced Java • Python • HTML5 and CSS3 • PHP • XML •  
 Shell Scripting • Batch Programming  
-  + **Familiar with:** Android • JavaScript • jQuery • Node.js • AngularJS • JSON • Django • LaTeX  
+	+ **Familiar with:** Android • JavaScript • jQuery • Node.js • AngularJS • JSON • Django • LaTeX  
   
 + **DATABASES**
-  + MySQL • MongoDB  
+	+ MySQL • MongoDB  
   
 + **SERVERS & PROTOCOLS**
-  + FTP Server • HTTP Server • SMTP Server • MOSH • SSH • Telnet • DHCP • DNS  
+	+ FTP Server • HTTP Server • SMTP Server • MOSH • SSH • Telnet • DHCP • DNS  
   
 + **OPERATING SYSTEM**
-  + **Linux:** Ubuntu 16.04.4 LTS • Fedora 27 • Debian 9.3 • CentOS 7 • OpenSUSE 42.3 • RedHat Enterprise Linux 7 
-  + **Microsoft:** Windows XP • Vista • 7 • 8 • 8.1 • 10 
+	+ **Linux:** Ubuntu 16.04.4 LTS • Fedora 27 • Debian 9.3 • CentOS 7 • OpenSUSE 42.3 • RedHat Enterprise Linux 7	
+	+ **Microsoft:** Windows XP • Vista • 7 • 8 • 8.1 • 10 
   
 + **REMOTE ACCESS TOOLS**
-  + NoMachine • TeamViewer • VNC
+	+ NoMachine • TeamViewer • VNC
 
 ----------
 
@@ -117,9 +118,7 @@ Shell Scripting • Batch Programming
 ----------
 
 ## __Interests & Hobbies__
-Artificial Intelligence • Machine Learning • 
-Deep Learning • Natural-language
-processing • Data Science • BigDATA •
+Artificial Intelligence • Machine Learning • Deep Learning • Natural-language processing • Data Science • BigDATA •
 Internet of Things (IoT) • Programming • Listening to Music * Reading
 
 ----------
