@@ -18,6 +18,24 @@ I am a Software Engineer from Nashik, India who loves to write software to make 
 
 ----------
 
+## __Experience__
++ #### COGNIZANT | **Programmer Analyst** | June 2018 – Present | Kolkata, India
+	+ Design the software programs for the new system and then translate the designs into various programming languages for the computer to follow.
+	+ Responsible for testing software to ensure there are no problems and debugging programs whenever problems arise.
+
++ #### FREELANCE | **Software Engineer** | June 2017 – May 2018 | Nashik, India
+	+ Created and Implemented Hadoop Cluster with the help of HDFS for Distributed and Parallel Computing. On created Hadoop Cluster, implementing MapReduse Programs and experimenting with it.
+	+ Configuring and Programming of BeagleBone Black, Arduino Uno & Arduino Mega 2560 with Ethernet Shield & ESP8266 and experimenting with it.
+	
++ #### LoGMIEER | **Network Engineer + Technical Assistant** | June 2015 – July 2016 | Nashik, India
+	+ Configuring network devices like Routers, Switches etc. & expanding existing network with the help of Static as well as DHCP IP. Troubleshooting network problems, network devices & computer hardware problems.
+	+ Upgrading & Repairing PC’s, Crimping of CAT5/CAT6 Twisted Pair Cables.
+	+ Installation of different distributions of Linux Operating Systems like Redhat, Ubuntu, Fedora, OpenSUSE etc. & Microsoft Windows 7, 8, 8.1, 10.
+	+ Installation and working with Remote Access Tools like NoMachine, TeamViewer, VNC.
+	+ Creating different types of servers like HTTP, FTP, SMTP, etc.
+
+----------
+
 ## __Academic Projects__
 + #### BE Final Year Project | **Project Leader + Programmer** | January 2017 – April 2017 | Nashik, India	
 	+ **SMART ENERGY METERING & BILLING SYSTEM USING ARDUINO & IOT**
@@ -33,20 +51,6 @@ I am a Software Engineer from Nashik, India who loves to write software to make 
 + #### Diploma Second Year Project | **Programmer** | March 2011 – April 2011 | Nashik, India 
 	+ **PIANO**
 		+ It is implemented using Object Oriented Programming Concepts and C++ with the help of ASCII values.
-
-----------
-
-## __Experience__
-+ #### FREELANCE | **Software Engineer** | June 2017 – Present | Nashik, India
-	+ Created and Implemented Hadoop Cluster with the help of HDFS for Distributed and Parallel Computing. On created Hadoop Cluster, implementing MapReduse Programs and experimenting with it.
-	+ Configuring and Programming of BeagleBone Black, Arduino Uno & Arduino Mega 2560 with Ethernet Shield & ESP8266 and experimenting with it.
-	
-+ #### LoGMIEER | **Network Engineer + Technical Assistant** | June 2015 – July 2016 | Nashik, India
-	+ Configuring network devices like Routers, Switches etc. & expanding existing network with the help of Static as well as DHCP IP. Troubleshooting network problems, network devices & computer hardware problems.
-	+ Upgrading & Repairing PC’s, Crimping of CAT5/CAT6 Twisted Pair Cables.
-	+ Installation of different distributions of Linux Operating Systems like Redhat, Ubuntu, Fedora, OpenSUSE etc. & Microsoft Windows 7, 8, 8.1, 10.
-	+ Installation and working with Remote Access Tools like NoMachine, TeamViewer, VNC.
-	+ Creating different types of servers like HTTP, FTP, SMTP, etc.
 
 ----------
 
