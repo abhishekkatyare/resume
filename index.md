@@ -20,8 +20,8 @@ I am a Software Engineer from Nashik, India who loves to write software to make 
 
 ## __Experience__
 + #### COGNIZANT | **Programmer Analyst Trainee** | June 2018 – Present | Kolkata, India
-	+ Part of the Quality Engineering \& Assurance team, responsible for creating one Data Validation tool from scratch to validate large amount of data and generate result sheet in Microsoft Excel.
-	+ Data Validation is perform between two files extracted from: \newline DB2 | Hadoop with the help of Hive | Oracle Database
+	+ Part of the Quality Engineering & Assurance team, responsible for creating one Data Validation tool from scratch to validate large amount of data and generate result sheet in Microsoft Excel.
+	+ Data Validation is perform between two files extracted from: DB2 | Hadoop with the help of Hive | Oracle Database
 	+ Design the software programs for the new system and then translate the designs into various programming languages for the computer to follow.
 	+ Responsible for testing software to ensure there are no problems and debugging programs whenever problems arise.
 
@@ -58,9 +58,9 @@ I am a Software Engineer from Nashik, India who loves to write software to make 
 
 ## __Skills__
 + **PROGRAMMING**
-	+ C • C++ • C# • Core & Advanced Java • Python • HTML5 and CSS3 • PHP • XML •  
-Shell Scripting • Batch Programming  
-	+ **Familiar with:** Android • JavaScript • jQuery • Node.js • AngularJS • JSON • Django • LaTeX  
+	+ C • C++ • C# • Core & Advanced Java • JavaFX • Python • HTML5 and CSS3 • PHP • XML •  
+Shell Scripting • Batch Programming 
+	+ **Familiar with:** JavaScript • Node.js • AngularJS • JSON • jQuery • Android • Django • LaTeX   
   
 + **DATABASES**
 	+ MySQL • MongoDB  
@@ -69,7 +69,7 @@ Shell Scripting • Batch Programming
 	+ FTP Server • HTTP Server • SMTP Server • MOSH • SSH • Telnet • DHCP • DNS  
   
 + **OPERATING SYSTEM**
-	+ **Linux:** Ubuntu 16.04.4 LTS • Fedora 27 • Debian 9.3 • CentOS 7 • OpenSUSE 42.3 • RedHat Enterprise Linux 7	
+	+ **Linux:** Ubuntu 18.04.1 LTS • Fedora 29 • Debian 9.6 • CentOS 7.6 • OpenSUSE Leap 15 • RedHat Enterprise Linux 7
 	+ **Microsoft:** Windows XP • Vista • 7 • 8 • 8.1 • 10 
   
 + **REMOTE ACCESS TOOLS**
