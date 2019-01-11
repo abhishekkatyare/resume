@@ -19,7 +19,9 @@ I am a Software Engineer from Nashik, India who loves to write software to make 
 ----------
 
 ## __Experience__
-+ #### COGNIZANT | **Programmer Analyst** | June 2018 – Present | Kolkata, India
++ #### COGNIZANT | **Programmer Analyst Trainee** | June 2018 – Present | Kolkata, India
+	+ Part of the Quality Engineering \& Assurance team, responsible for creating one Data Validation tool from scratch to validate large amount of data and generate result sheet in Microsoft Excel.
+	+ Data Validation is perform between two files extracted from: \newline DB2 | Hadoop with the help of Hive | Oracle Database
 	+ Design the software programs for the new system and then translate the designs into various programming languages for the computer to follow.
 	+ Responsible for testing software to ensure there are no problems and debugging programs whenever problems arise.
 
