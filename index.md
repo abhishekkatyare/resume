@@ -1,8 +1,23 @@
 # Abhishek Katyare
 
 ## __Introduction__
-I am a Software Engineer from Nashik, India who loves to write software to make world more digital. I am a Coder by Profession and Entrepreneur by Heart. I have a passion for creating and enhancing anything technology related. When it comes to building, my ultimate goal is to make the world a better place. I'm a digital professional on the bleeding edge of technology. Experienced Freelance Software Engineer with a demonstrated history of working in the computer software industry. Skilled in C, C++, Python, Core & Advance Java, HTML5 & CSS3, PHP, MySQL, MongoDB, XML, Computer Networking, Linux System Administration and also familiar with Android App Development, JavaScript, jQuery, Node.js, AngularJS, JSON, Django, LaTeX. Strong engineering professional with a Bachelor of Engineering (B.E.) focused in Computer Science and Engineering from Pune University. I am also interested in Entrepreneurship, Critical Reading, and Listening to Music.
+I am an Engineer from Nashik, India who loves to develop digital systems and write software to make world more
+digital. I am a coder by profession and entrepreneur by heart. I have a passion for creating and enhancing anything
+related to the technology. When it comes to building something new, my ultimate goal is to make the world a better
+place. I’m a digital professional on the bleeding edge technology. Strong engineering professional with a Bachelor of
+Engineering (B.E.) focused in Computer Science and Engineering from Savitribai Phule Pune University.
 
+I’m self-motivated, highly adaptable, intellectual, technology enthusiast, problem solver, persistent. Self-taught
+many programming languages and new technologies. I’m enthusiastic to learn new technologies and I like trial and
+error method to solve any problem. I like to experiment and research in Internet of Things(IoT), AI, Machine Learning,
+Deep Learning, BigData, Distributed Computing & Parallel Programming.
+
+I’m ”jugaadu” kind of person. So if you gave me challenge and time duration to find out solution to it. And if I don’t
+know anything about it, then I just want one machine and full access of internet. I’ll do research, learn and develop the
+solution for that challenge within the given time frame.
+
+I’m also interested in entrepreneurship, critical reading, listening to music, traveling, trekking, hiking, street and
+landscape photography.
 ----------
 
 ## __Education__
@@ -19,7 +34,7 @@ I am a Software Engineer from Nashik, India who loves to write software to make 
 ----------
 
 ## __Experience__
-+ #### COGNIZANT | **Programmer Analyst Trainee** | June 2018 – Present | Kolkata, India
++ #### COGNIZANT | **Programmer Analyst Trainee** | June 2018 – May 2019 | Kolkata, India
 	+ Part of the BigData Product Development team, responsible for creating one Data Validation tool from scratch to validate large amount of data and generate result sheet in Microsoft Excel.
 	+ Data Validation is perform between two files extracted from: 
 		+ DB2
@@ -128,7 +143,7 @@ Shell Scripting • Batch Programming
 
 ## __Interests__
 Artificial Intelligence • Machine Learning • Deep Learning • Natural-language processing • Data Science • BigDATA •
-Internet of Things (IoT) • Programming • Listening to Music • Reading
+Internet of Things (IoT) • Programming • Critical Reading • Listening to Music • Traveling • Trekking & Hiking • Street & Landscape Photography
 
 ----------
 
