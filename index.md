@@ -18,6 +18,7 @@ solution for that challenge within the given time frame.
 
 I’m also interested in entrepreneurship, critical reading, listening to music, traveling, trekking, hiking, street and
 landscape photography.
+
 ----------
 
 ## __Education__
