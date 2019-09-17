@@ -90,6 +90,9 @@ Shell Scripting • Batch Programming
 + **OPERATING SYSTEM**
 	+ **Linux:** Ubuntu 18.04.1 LTS • Fedora 29 • Debian 9.6 • CentOS 7.6 • OpenSUSE Leap 15 • RedHat Enterprise Linux 7
 	+ **Microsoft:** Windows XP • Vista • 7 • 8 • 8.1 • 10 
+
++ **EMBEDDED SYSTEMS**
+        + Arduino • BeagleBone • Raspberry Pi 
   
 + **REMOTE ACCESS TOOLS**
 	+ NoMachine • TeamViewer • VNC
@@ -142,8 +145,8 @@ Shell Scripting • Batch Programming
 
 ----------
 
-## __Interests__
-Artificial Intelligence • Machine Learning • Deep Learning • Natural-language processing • Data Science • BigDATA •
+## __Interests & Hobbies__
+Artificial Intelligence • Machine Learning • Deep Learning • Natural-language processing • Data Science • BigDATA • Cloud Computing • 
 Internet of Things (IoT) • Programming • Critical Reading • Listening to Music • Traveling • Trekking & Hiking • Street & Landscape Photography
 
 ----------
