@@ -35,7 +35,7 @@ landscape photography.
 ----------
 
 ## __Experience__
-+ #### COGNIZANT | **Programmer Analyst Trainee** | June 2018 – May 2019 | Kolkata, India
++ #### COGNIZANT | **Programmer Analyst** | June 2018 – May 2019 | Kolkata, India
 	+ Part of the BigData Product Development team, responsible for creating one Data Validation tool from scratch to validate large amount of data and generate result sheet in Microsoft Excel.
 	+ Data Validation is perform between two files extracted from: 
 		+ DB2
