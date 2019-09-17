@@ -149,16 +149,9 @@ Internet of Things (IoT) • Programming • Critical Reading • Listening to M
 ----------
 
 ## __Links__
-[Email](mailto:abhishekkatyare@gmail.com) • 
+[About.Me](https://about.me/abhishekkatyare) • 
 [LinkedIn](http://www.linkedin.com/in/abhishekkatyare) • 
-[Angel.Co](https://angel.co/abhishekkatyare) • 
 [GitHub](https://github.com/abhishekkatyare) • 
+[Angel.Co](https://angel.co/abhishekkatyare) • 
 [Twitter](https://twitter.com/AbhishekKatyare) • 
-[Google+](https://plus.google.com/+AbhishekKatyare) • 
-[Facebook](https://www.facebook.com/KatyareAbhishek) • 
-[Instagram](https://www.instagram.com/abhishekkatyare) • 
-[Pocket](https://getpocket.com/@abhishekkatyare) • 
-[Medium](https://medium.com/@abhishekkatyare) • 
-[Pinterest](https://in.pinterest.com/abhishekkatyare) • 
-[Tumblr](https://abhishekkatyare.tumblr.com/) • 
-[About.Me](https://about.me/abhishekkatyare)
+[Medium](https://medium.com/@abhishekkatyare) 
