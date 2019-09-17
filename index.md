@@ -92,7 +92,7 @@ Shell Scripting • Batch Programming
 	+ **Microsoft:** Windows XP • Vista • 7 • 8 • 8.1 • 10 
 
 + **EMBEDDED SYSTEMS**
-        + Arduino • BeagleBone • Raspberry Pi 
+	+ Arduino • BeagleBone • Raspberry Pi 
   
 + **REMOTE ACCESS TOOLS**
 	+ NoMachine • TeamViewer • VNC
