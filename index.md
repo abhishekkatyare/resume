@@ -152,6 +152,5 @@ Internet of Things (IoT) • Programming • Critical Reading • Listening to M
 [About.Me](https://about.me/abhishekkatyare) • 
 [LinkedIn](http://www.linkedin.com/in/abhishekkatyare) • 
 [GitHub](https://github.com/abhishekkatyare) • 
-[Angel.Co](https://angel.co/abhishekkatyare) • 
 [Twitter](https://twitter.com/AbhishekKatyare) • 
 [Medium](https://medium.com/@abhishekkatyare) 
