@@ -106,7 +106,7 @@ landscape photography.
 + **BUILD AUTOMATION TOOLS**
 	+ Apache Maven 
 
-+ ** VERSION CONTROL SYSTEMS, RELEASE & DEPLOYMENT**
++ **VERSION CONTROL SYSTEMS, RELEASE & DEPLOYMENT**
 	+ git & GitHub • CI/CT/CD • Jenkins
   
 + **PROTOCOLS**
