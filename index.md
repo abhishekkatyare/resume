@@ -89,7 +89,7 @@ landscape photography.
 ----------
 
 ## __Skills__
-+ **PROGRAMMING**
++ **PROGRAMMING LANGUAGES**
 	+ **Back-end:** Python • Java 
 	+ **Front-end:** HTML5 and CSS3 • JavaScript • JavaFX 
 	+ **Familiar with:** C • C++ • C# • LaTeX   
