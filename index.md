@@ -34,7 +34,11 @@ landscape photography.
 
 ----------
 
-## __Experience__
+## __Experience__ 
++ #### Freelancer.com | **Software Engineer** | June 2019 – Present | Nashik, India
+	+ Full-Stack Web Development
+	+ Native as well as cross platform application development
+
 + #### COGNIZANT | **Programmer Analyst** | June 2018 – May 2019 | Kolkata, India
 	+ Part of the BigData Product Development team, responsible for creating one Data Validation tool from scratch to validate large amount of data and generate result sheet in Microsoft Excel.
 	+ Data Validation is perform between two files extracted from: 
@@ -45,9 +49,16 @@ landscape photography.
 	+ Responsible for testing software to ensure there are no problems and debugging programs whenever problems arise.
 	+ **Technologies Used: Core and Advance Java, JavaFX, Python, SQL, NoSQL**
 
++ #### Cumulus Techsoft | **Software Developer** | May 2017 – June 2018 | Nashik, India
+	+ Part of Core Development Team, main focused on designing, developing and deploying web application.
+	+ Developed and maintained full stack java web application for a client.
+	+ Also done unit and integration testing forthat web application.
+	+ **Technologies Used: HTML5 and CSS3, JavaScript, Java, Spring, Hibernate**
+
 + #### LoGMIEER | **Technical Engineer** | June 2015 – July 2016 | Nashik, India
 	+ Created and Implemented Hadoop Cluster with the help of HDFS and 19 machines for Distributed and Parallel Computing. On created Hadoop Cluster, implementing MapReduse Programs and experimenting with it.
 	+ Configuring and Programming of BeagleBone Black, Arduino Uno & Arduino Mega 2560 with Ethernet Shield & ESP8266 and experimenting with it.
+	+ **Technologies Used: Hadoop, HDFS, Java, BeagleBone Black, C, C++**
 	+ Configuring network devices like Routers, Switches etc. & expanding existing network with the help of Static as well as DHCP IP. Troubleshooting network problems, network devices & computer hardware problems.
 	+ Upgrading & Repairing PC’s, Crimping of CAT5/CAT6 Twisted Pair Cables.
 	+ Installation of different distributions of Linux Operating Systems like Redhat, Ubuntu, Fedora, OpenSUSE etc. & Microsoft Windows 7, 8, 8.1, 10.
