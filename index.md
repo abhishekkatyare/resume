@@ -90,18 +90,30 @@ landscape photography.
 
 ## __Skills__
 + **PROGRAMMING**
-	+ C • C++ • C# • Core & Advanced Java • JavaFX • Python • HTML5 and CSS3 • PHP • XML •  
-Shell Scripting • Batch Programming 
-	+ **Familiar with:** JavaScript • Node.js • AngularJS • JSON • jQuery • Android • Django • LaTeX   
+	+ **Back-end:** Python • Java 
+	+ **Front-end:** HTML5 and CSS3 • JavaScript • JavaFX 
+	+ **Familiar with:** C • C++ • C# • LaTeX   
   
-+ **DATABASES**
-	+ MySQL • MongoDB  
++ **DATABASE SYSTEMS**
+	+ MySQL • PostgreSQL • MongoDB 
+
++ **FRAMEWORKS AND API**
+	+ Django • Flask • Spring • Spring Boot • Hibernate • React.js • Express.js • jQuery • REST API • GraphQL
+
++ **SERVER RUNTIME** 
+	+ Apache HTTP Server • Nginx • Apache Tomcat • Node.js 
+
++ **BUILD AUTOMATION TOOLS**
+	+ Apache Maven 
+
++ ** VERSION CONTROL SYSTEMS, RELEASE & DEPLOYMENT**
+	+ git & GitHub • CI/CT/CD • Jenkins
   
-+ **SERVERS & PROTOCOLS**
-	+ FTP Server • HTTP Server • SMTP Server • MOSH • SSH • Telnet • DHCP • DNS  
++ **PROTOCOLS**
+	+ FTP • HTTP • SMTP • MOSH • SSH • Telnet • DHCP • DNS  
   
 + **OPERATING SYSTEM**
-	+ **Linux:** Ubuntu 18.04.1 LTS • Fedora 29 • Debian 9.6 • CentOS 7.6 • OpenSUSE Leap 15 • RedHat Enterprise Linux 7
+	+ **Linux:** Ubuntu 18.04.3 LTS • Fedora 31 • CentOS 8.1 • RedHat Enterprise Linux 7
 	+ **Microsoft:** Windows XP • Vista • 7 • 8 • 8.1 • 10 
 
 + **EMBEDDED SYSTEMS**
