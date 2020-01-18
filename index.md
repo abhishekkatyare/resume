@@ -102,10 +102,7 @@ landscape photography.
 
 + **PaaS & SERVER RUNTIME** 
 	+ Heroku • PythonAnywhere • Apache HTTP Server • Nginx • Apache Tomcat • Node.js 
-<!--
-+ **BUILD AUTOMATION TOOLS**
-	+ Apache Maven 
--->
+
 + **VERSION CONTROL SYSTEMS, RELEASE & DEPLOYMENT**
 	+ git & GitHub • CI/CD • Maven • Jenkins
   
