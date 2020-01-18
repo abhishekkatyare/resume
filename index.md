@@ -97,17 +97,17 @@ landscape photography.
 + **DATABASE SYSTEMS**
 	+ MySQL • PostgreSQL • MongoDB 
 
-+ **FRAMEWORKS AND API**
-	+ Django • Flask • Spring • Spring Boot • Hibernate • React.js • Express.js • jQuery • REST API • GraphQL
++ **FRAMEWORKS & API**
+	+ Django • Django REST Framework • Flask • Flask RESTful • Spring • Spring Boot • Hibernate • React.js • Express.js • jQuery • REST API • GraphQL
 
-+ **SERVER RUNTIME** 
-	+ Apache HTTP Server • Nginx • Apache Tomcat • Node.js 
-
++ **PaaS & SERVER RUNTIME** 
+	+ Heroku • PythonAnywhere • Apache HTTP Server • Nginx • Apache Tomcat • Node.js 
+<!-- hi -->
 + **BUILD AUTOMATION TOOLS**
 	+ Apache Maven 
 
 + **VERSION CONTROL SYSTEMS, RELEASE & DEPLOYMENT**
-	+ git & GitHub • CI/CT/CD • Jenkins
+	+ git & GitHub • CI/CD • Maven • Jenkins
   
 + **PROTOCOLS**
 	+ FTP • HTTP • SMTP • MOSH • SSH • Telnet • DHCP • DNS  
