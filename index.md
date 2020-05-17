@@ -36,9 +36,11 @@ landscape photography.
 
 ## __Experience__ 
 + #### Freelancer.com | **Software Engineer** | June 2019 – Present | Nashik, India
-	+ Full-Stack Web Development
+	+ Full-Stack Web Development using Django and Flask
+	+ Automation using Python Scripting
 	+ Native as well as cross platform application development
-	+ **Technologies Used: Python, Django, Flask, PostgreSQL, etc.**
+	+ Desktop Application using Java, JavaFX
+	+ **Technologies Used: Python, Django, Flask, Java, JavaFX, PostgreSQL, etc.**
 
 + #### COGNIZANT | **Programmer Analyst** | June 2018 – May 2019 | Kolkata, India
 	+ Part of the BigData Product Development team, responsible for creating one Data Validation tool from scratch to validate large amount of data and generate result sheet in Microsoft Excel.
