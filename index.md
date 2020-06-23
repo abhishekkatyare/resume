@@ -9,6 +9,8 @@ I’m a "jugaadu" kind of person. So if you gave me a challenge and time duratio
 
 I’m also interested in entrepreneurship, critical reading, listening to music, traveling, trekking, hiking, street, and landscape photography.
 
+I’m also interested in entrepreneurship, critical reading, listening to music, traveling, trekking, hiking, street, and landscape photography.
+
 ----------
 
 ## __Education__
