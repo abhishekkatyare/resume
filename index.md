@@ -11,6 +11,47 @@ I’m also interested in entrepreneurship, critical reading, listening to music,
 
 ----------
 
+## __Experience__ 
++ #### Freelance | **Salesforce Developer** | June 2019 – Present | Nashik, India
+	+ Experience in Configuration of Custom Tabs and Objects, Custom Labels, Custom Settings, Profiles & Permissions Sets.
+	+ Experience in Configuration, Customization, Programming using Apex, Classes, Controllers, Triggers, VisualForce Pages, Reports and Dashboards, Page Layouts, Validation rules, Work Flows, Process Builder, Flows.
+	+ Experience in Configuration, Customization, Programming using Lightning Aura Components and LWC Framework.
+	+ Imported data using Data Import Wizard, Data Loader, dataloader.io.
+	+ **Technologies Used: Apex, SOQL and SOSL, Visualforce, HTML5 and CSS3, JavaScript, SOAP API, REST API etc.**
+
++ #### COGNIZANT | **Programmer Analyst** | June 2018 – May 2019 | Kolkata, India
+	+ Developed DVMap (Data Validation and Mapping) tool for BigData from a neat idea to running an efficient application.
+	+ Part of the BigData Product Development team, responsible for creating one Data Validation tool from scratch to validate large amount of data and generate result sheet in Microsoft Excel.
+	+ Implemented different database configurations with DVMap and Data Validation is perform between two files extracted from: 
+		+ DB2
+		+ Hadoop with the help of Hive
+		+ Oracle Database
+	+ Convert DVMap from a single-threaded application to multi-threaded to optimize the overall performance.
+	+ Helped to design and develop base UI from scratch using JavaFX, also done unit and integration testing.
+	+ **Technologies Used: Core and Advance Java, JavaFX, Python, SQL, NoSQL, etc.**
+
++ #### Cumulus Techsoft | **Software Developer** | May 2017 – June 2018 | Nashik, India
+	+ Part of Core Development Team, main focused on designing, developing and deploying web application.
+	+ Developed and maintained full stack java web application for a client.
+	+ Also done unit and integration testing forthat web application.
+	+ Full-Stack Web Development using Django and Flask
+	+ Automation using Python Scripting
+	+ Native as well as cross platform application development
+	+ **Technologies Used: Java, Spring, Hibernate, Python, HTML5 and CSS3, JavaScript, etc.**
+
++ #### LoGMIEER | **Technical Engineer** | June 2015 – July 2016 | Nashik, India
+	+ Worked as a Technical Engineer for my engineering institute in Learn and Earn program.
+	+ Created and Implemented Hadoop Cluster with the help of HDFS and 19 machines for Distributed and Parallel Computing. On created Hadoop Cluster, implementing MapReduse Programs and experimenting with it.
+	+ Configuring and Programming of BeagleBone Black, Arduino Uno & Arduino Mega 2560 with Ethernet Shield & ESP8266 and experimenting with it.
+	+ **Technologies Used: Hadoop, HDFS, Java, BeagleBone Black, C, C++**
+	+ Configuring network devices like Routers, Switches etc. & expanding existing network with the help of Static as well as DHCP IP. Troubleshooting network problems, network devices & computer hardware problems.
+	+ Upgrading & Repairing PC’s, Crimping of CAT5/CAT6 Twisted Pair Cables.
+	+ Installation of different distributions of Linux Operating Systems like Redhat, Ubuntu, Fedora, OpenSUSE etc. & Microsoft Windows 7, 8, 8.1, 10.
+	+ Installation and working with Remote Access Tools like NoMachine, TeamViewer, VNC.
+	+ Creating different types of servers like HTTP, FTP, SMTP, etc.
+
+----------
+
 ## __Education__
 + #### Savitribai Phule Pune University | August 2014 - July 2017 | Nashik, India
 	+ **BE IN COMPUTER ENGINEERING**	
@@ -21,42 +62,6 @@ I’m also interested in entrepreneurship, critical reading, listening to music,
 + #### Pethe Vidyalaya | June 2009 | Nashik, India
 	+ **SSC EXAM (10<sup>th</sup>)**
 	+ **First Class** with **67.23%**
-
-----------
-
-## __Experience__ 
-+ #### Freelancer.com | **Software Engineer** | June 2019 – Present | Nashik, India
-	+ Full-Stack Web Development using Django and Flask
-	+ Automation using Python Scripting
-	+ Native as well as cross platform application development
-	+ Desktop Application using Java, JavaFX
-	+ **Technologies Used: Python, Django, Flask, Java, JavaFX, PostgreSQL, etc.**
-
-+ #### COGNIZANT | **Programmer Analyst** | June 2018 – May 2019 | Kolkata, India
-	+ Part of the BigData Product Development team, responsible for creating one Data Validation tool from scratch to validate large amount of data and generate result sheet in Microsoft Excel.
-	+ Data Validation is perform between two files extracted from: 
-		+ DB2
-		+ Hadoop with the help of Hive
-		+ Oracle Database
-	+ Design the software programs for the new system and then translate the designs into various programming languages for the computer to follow.
-	+ Responsible for testing software to ensure there are no problems and debugging programs whenever problems arise.
-	+ **Technologies Used: Core and Advance Java, JavaFX, Python, SQL, NoSQL**
-
-+ #### Cumulus Techsoft | **Software Developer** | May 2017 – June 2018 | Nashik, India
-	+ Part of Core Development Team, main focused on designing, developing and deploying web application.
-	+ Developed and maintained full stack java web application for a client.
-	+ Also done unit and integration testing forthat web application.
-	+ **Technologies Used: HTML5 and CSS3, JavaScript, Java, Spring, Hibernate**
-
-+ #### LoGMIEER | **Technical Engineer** | June 2015 – July 2016 | Nashik, India
-	+ Created and Implemented Hadoop Cluster with the help of HDFS and 19 machines for Distributed and Parallel Computing. On created Hadoop Cluster, implementing MapReduse Programs and experimenting with it.
-	+ Configuring and Programming of BeagleBone Black, Arduino Uno & Arduino Mega 2560 with Ethernet Shield & ESP8266 and experimenting with it.
-	+ **Technologies Used: Hadoop, HDFS, Java, BeagleBone Black, C, C++**
-	+ Configuring network devices like Routers, Switches etc. & expanding existing network with the help of Static as well as DHCP IP. Troubleshooting network problems, network devices & computer hardware problems.
-	+ Upgrading & Repairing PC’s, Crimping of CAT5/CAT6 Twisted Pair Cables.
-	+ Installation of different distributions of Linux Operating Systems like Redhat, Ubuntu, Fedora, OpenSUSE etc. & Microsoft Windows 7, 8, 8.1, 10.
-	+ Installation and working with Remote Access Tools like NoMachine, TeamViewer, VNC.
-	+ Creating different types of servers like HTTP, FTP, SMTP, etc.
 
 ----------
 
@@ -83,21 +88,21 @@ I’m also interested in entrepreneurship, critical reading, listening to music,
 
 ## __Skills__
 + **PROGRAMMING LANGUAGES**
-	+ **Back-end:** Python • Java 
-	+ **Front-end:** HTML5 and CSS3 • JavaScript • JavaFX 
+	+ **Back-end:** Apex • Java • Python
+	+ **Front-end:** HTML5 and CSS3 • JavaScript • Lightning Components (Aura and LWC) • Visualforce • JavaFX
 	+ **Familiar with:** C • C++ • C# • LaTeX   
   
 + **DATABASE SYSTEMS**
-	+ MySQL • PostgreSQL • MongoDB 
+	+ MySQL • PostgreSQL • MongoDB  • Apache Hadoop • HDFS • Apache Hive
 
-+ **FRAMEWORKS & API**
-	+ Django • Django REST Framework • Flask • Flask RESTful • Spring • Spring Boot • Hibernate • React.js • Express.js • jQuery • REST API • GraphQL
++ **FRAMEWORKS, INTEGRATIONS & APIs**
+	+ Django • Django REST Framework • Flask • Flask RESTful • Spring • Spring Boot • Hibernate • React.js • Express.js • jQuery • SOAP API • REST API • Bulk API • Metadata API • GraphQL
 
 + **PaaS & SERVER RUNTIME** 
 	+ Heroku • PythonAnywhere • Apache HTTP Server • Nginx • Apache Tomcat • Node.js 
 
 + **VERSION CONTROL SYSTEMS, RELEASE & DEPLOYMENT**
-	+ git & GitHub • CI/CD • Maven • Jenkins
+	+ git & GitHub • CI/CT/CD • Maven • Jenkins • Copado
   
 + **PROTOCOLS**
 	+ FTP • HTTP • SMTP • MOSH • SSH • Telnet • DHCP • DNS  
