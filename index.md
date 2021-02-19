@@ -33,7 +33,7 @@ I’m also interested in entrepreneurship, critical reading, listening to music,
 + #### Cumulus Techsoft | **Software Developer** | May 2017 – June 2018 | Nashik, India
 	+ Part of Core Development Team, main focused on designing, developing and deploying web application.
 	+ Developed and maintained full stack java web application for a client.
-	+ Also done unit and integration testing forthat web application.
+	+ Also done unit and integration testing for that web application.
 	+ Full-Stack Web Development using Django and Flask
 	+ Automation using Python Scripting
 	+ Native as well as cross platform application development
