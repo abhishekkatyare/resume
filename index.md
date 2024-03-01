@@ -177,10 +177,11 @@ Internet of Things (IoT) • Programming • Critical Reading • Listening to M
 ----------
 
 ## __Links__
-[abhishekkatyare.xyz](https://www.abhishekkatyare.xyz/) • 
+[abhishek.katyare.com](https://abhishek.katyare.com/) • 
 [About.Me](https://abhishekkatyare.github.io/abhishekkatyare) • 
 [LinkedIn](http://www.linkedin.com/in/abhishekkatyare) • 
 [GitHub](https://github.com/abhishekkatyare) • 
 [Twitter](https://twitter.com/AbhishekKatyare) • 
+[Instagram](https://www.instagram.com/abhishekkatyare) •
 [Medium](https://medium.com/@abhishekkatyare) • 
 [DEV](https://dev.to/abhishekkatyare) 
